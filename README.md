@@ -93,3 +93,4 @@ Make a PR to remove yourself if you want to do it again
 - [sandesh-bhandari-dev](https://github.com/sandesh-bhandari-dev)
 - [voxalice2](https://github.com/voxalice2)
 - [redspacecat](https://github.com/redspacecat)
+- [7salad3salad](https://github.com/7salad3salad)
