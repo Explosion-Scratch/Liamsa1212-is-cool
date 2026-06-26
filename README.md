@@ -109,3 +109,4 @@ Make a PR to remove yourself if you want to do it again
 - [cannorin](https://github.com/cannorin)
 - [netfri25](https://github.com/netfri25)
 - [kdkasad](https://github.com/kdkasad)
+- [Sbrjt](https://github.com/Sbrjt)
